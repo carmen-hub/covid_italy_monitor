@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_covid_province_user,access_covid_province_user,model_covid_province,covid_italy_monitor.group_covid_user,1,0,0,1

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem id="menu_covid_root" name="COVID Monitor" sequence="10" web_icon="covid_italy_monitor,static/description/icon.png" />
+
+    <menuitem id="menu_covid_stats" name="Regional Statistics" parent="menu_covid_root" action="action_covid_italy_monitor" />
+</odoo>
